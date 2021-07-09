@@ -6,7 +6,7 @@ SL=15
 SW=11
 SH=3
 #NL = (L*12+4*SL)/SL
-#NH = (H*12+1*SH)/SH
+#NH = (H*12+2*SH)/SH
 #print(NL)
 #print(NH)
 print('Total number of sandbags you need = ', round(NL*NH))
